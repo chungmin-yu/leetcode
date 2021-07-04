@@ -17,3 +17,5 @@ class Solution:
                     current=current.left
                 elif val>current.val:
                     current=current.right
+                    
+                    
